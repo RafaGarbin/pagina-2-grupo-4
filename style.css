@@ -3,7 +3,7 @@ body {
 }
 
 li{font-size: 55px;}
-.imagem1 {width: 50%;}
+#imagem1 {width: 100%;}
 .imagem2 {width: 50%;}
 .imagem3 {width: 50%;}
 .imagem4 {width: 50%;}
@@ -11,5 +11,5 @@ li{font-size: 55px;}
 .imagem6 {width: 50%;}
 .imagem7 {width: 50%;}
 .imagem8 {width: 50%;}
-.imagem9 {width: 50%;}
+#imagem9 {width: 50%;}
 
